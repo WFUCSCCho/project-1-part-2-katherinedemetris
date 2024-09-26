@@ -1,25 +1,24 @@
+ insert "Abbotsford"
+ insert "Camberwell"
+ insert "Kingsville"
+ insert "Melbourne"
 
-insert 111
-             insert 23
+ isEmpty
 
-insert 99
-insert         4
+ insert "Abbotsford"
 
-isEmpty
+ print
 
-    insert     111
+ search "Airport West"
 
-print
+ remove "Kingsville"
 
+ remove "Melbourne"
+ remove "NonexistentSuburb"
 
-search 9
+ isEmpty
 
-remove 23
+ print
 
-remove 4
-remove 999999
-isEmptyasfh
-print
-
-insert 123
-print
+ insert "Ivanhoe"
+ print
